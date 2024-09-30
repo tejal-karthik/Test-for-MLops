@@ -1,2 +1,2 @@
 import nltk
-Print('Hello')
+print('Hello')
